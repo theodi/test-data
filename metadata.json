@@ -1,4 +1,18 @@
 {
-  "name": "github-viewer-test-data",
-  "description": "Test data for the github-viewer app"
+    "name": "github-viewer-test-data",
+    "description": "Test data for the github-viewer app", 
+    "definitions": [
+        {
+            "label": "planetary_body", 
+            "name": "Planetary body", 
+            "type": "text"
+        }, 
+        {
+            "label": "acceleration", 
+            "name": "Acceleration due to gravity", 
+            "type": "decimal", 
+            "unit": "m/s^2"
+        }
+    ],
+    "data": "data.csv"
 }
