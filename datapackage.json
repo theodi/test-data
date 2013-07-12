@@ -18,6 +18,15 @@
             "type": "text"
           }, 
           {
+            "id": "aphelion",
+            "label": "Aphelion", 
+            "type": "number",
+            "unit": {
+              "type": "physical",
+              "id": "km"
+            }
+          }, 
+          {
             "id": "acceleration", 
             "label": "Acceleration due to gravity", 
             "type": "number",
