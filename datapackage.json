@@ -1,6 +1,7 @@
 {
-  "name": "Planetary Bodies",		
-  "description": "Test data for the github-viewer app. Fusce in enim leo, mattis semper diam. Nulla ultricies diam eu magna porttitor vehicula. Etiam eros lacus, aliquam non adipiscing in, lacinia non erat. Fusce fermentum dictum odio, non pretium quam sodales sed. Nam ac nisl mauris, id imperdiet lectus. In eget nisi nulla, vitae dapibus tellus. Proin nisi ante, interdum vitae aliquet at, euismod id mi. Vivamus vel mollis elit. Aenean lacus nunc, suscipit eget mollis consequat, dictum vulputate leo.",
+  "name": "planetary-bodies",
+  "title": "Planetary Bodies",		
+  "description": "Test data for the github-viewer app. This is in DataPackage format (see http://www.dataprotocols.org/en/latest/data-packages.html).",
   "licenses": [
     {
       "id": "odc-odbl",
